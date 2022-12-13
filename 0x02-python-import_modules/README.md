@@ -1,1 +1,1 @@
-A repo containing my efforts to tackel all ALX SE tasks on imports and modules in Python 3
+This is a repository of my experinece with tasks on the ALX SE higher level programming modules
