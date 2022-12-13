@@ -1,1 +1,1 @@
-This is a repository of my experinece with tasks on the ALX SE higher level programming modules
+This is a repo of my efforts at solving all ALXSE higher level programming tasks
